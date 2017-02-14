@@ -39,18 +39,28 @@ coach, and public speaker.
 ================================================================================
 
 Lead Developer/Architect, Scientific Information
+
 Systems, Department of Ecology (ITS 5, Step J, ~$73k)
+
 September 2012 – Present
+
 Duties: As a senior developer/architect, responsible for the design and support of mission critical agency applications. Researched and planned agency migration to TFS2012. Trained and mentored other developers on the effective use of agile development and Scrum.
 
+
 Senior Developer, ITS4, Office of the Attorney General
+
 March 2007 – September 2012
+
 Duties: C#/.NET Development, SQL Server
 Development, Agile Software Design, Systems Administration, General Troubleshooting, Test Automation, Project Scoping/Implementation, Training and Mentoring developers in Agile and Scrum.
 
+
 Software Design Engineer In Test
+
 Microsoft (via Volt Technical Services)
+
 June 2006 – March 2007
+
 Duties: Created test automation software for Windows Firewall – developed complex, scriptable network clients, integrated with existing test infrastructure. 
 
 (Prior work history is available on request.)
