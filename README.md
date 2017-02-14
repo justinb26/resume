@@ -1,7 +1,11 @@
 Justin Burns
+
 Phone: 360.250.9020
+
 Email: justin@olymega.org
+
 Address: 7617 Alice Ct. SE
+
 Olympia, WA 98503
 
 ================================================================================
